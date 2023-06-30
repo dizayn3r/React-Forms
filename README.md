@@ -17,6 +17,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-FFA500?logo=JavaScript&logoColor=white&color=FFA500)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-blue?logo=Framer)](https://www.framer.com/api/motion/)
 
+<div align="start">
 ## Introduction
 
 Welcome to the GitHub repository for the
@@ -76,3 +77,4 @@ create a pull request. You can also simply open an issue with the tag
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+</div>
